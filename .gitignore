@@ -1,0 +1,21 @@
+# Notebooks
+**/.ipynb_checkpoints
+*.ipynb~
+*.nbconvert.ipynb
+.jupyter/lab/workspaces/
+.ipynb_cache/
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Vs Code
+.vscode/
+
