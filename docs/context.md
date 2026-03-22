@@ -1,6 +1,6 @@
 ## Contexto
 
-A Horizon Retail Supply é uma rede de distribuição que abastece diversas lojas físicas. O problema relatado pela
+O cliente é uma rede de distribuição que abastece diversas lojas físicas. O problema relatado pela
 operação é inconsistente: algumas lojas reclamam de falta de produtos em determinados dias, enquanto outras
 acumulam estoque sem giro. A área logística afirma que o planejamento atual é baseado principalmente em
 histórico recente e experiência dos gestores.
